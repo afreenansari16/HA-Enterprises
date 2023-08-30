@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(218, 234, 247);
+}
+
+.font{
+font-family: 'Black Ops One', cursive;
+/*font-family: 'Kanit', sans-serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Rubik Iso', cursive; */
+}
+.carousel-item img{
+    opacity: 0.8;
+    
+}
+.tt{
+     font-family: 'Bricolage Grotesque', sans-serif;
+}
+.logo img{
+    /* margin: 12px 22px; */
+    padding: 13px 32px;
+}
